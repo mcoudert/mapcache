@@ -8,7 +8,6 @@ cd mapcache
 mkdir build
 cd build
 cmake ..
-# follow detailed instructions referenced below if missing a dependency
 make
 sudo make install
 
